@@ -59800,7 +59800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail04.linkedin.com
 0.0.0.0 marketing.linkedin.com
 0.0.0.0 me.linkedin.com
-0.0.0.0 media.licdn.com
+# 0.0.0.0 media.licdn.com #[affects linkedin.com]
 0.0.0.0 members.linkedin.com
 0.0.0.0 mentor.linkedin.com
 0.0.0.0 mobile.linkedin.com
@@ -59840,7 +59840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 si.linkedin.com
 0.0.0.0 smallbusiness.linkedin.com
 0.0.0.0 specialedition.linkedin.com
-0.0.0.0 static.licdn.com
+# 0.0.0.0 static.licdn.com #[affects linkedin.com]
 0.0.0.0 studentcareers.linkedin.com
 0.0.0.0 students.linkedin.com
 0.0.0.0 ta.linkedin.com
