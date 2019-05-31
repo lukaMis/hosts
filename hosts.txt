@@ -59858,7 +59858,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 volunteer.linkedin.com
 0.0.0.0 ws.linkedin.com
 0.0.0.0 www.licdn.com
-0.0.0.0 www.linkedin.com
+# 0.0.0.0 www.linkedin.com #[allow linkedin]
 0.0.0.0 yardim.linkedin.com
 0.0.0.0 za.linkedin.com
 
