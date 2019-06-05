@@ -59837,7 +59837,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 se.linkedin.com
 0.0.0.0 security.linkedin.com
 0.0.0.0 sg.linkedin.com
-0.0.0.0 si.linkedin.com
+# 0.0.0.0 si.linkedin.com #[affects linkedin.com]
 0.0.0.0 smallbusiness.linkedin.com
 0.0.0.0 specialedition.linkedin.com
 # 0.0.0.0 static.licdn.com #[affects linkedin.com]
