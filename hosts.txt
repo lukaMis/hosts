@@ -59732,7 +59732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autodiscover.linkedin.com
 0.0.0.0 ayuda.linkedin.com
 0.0.0.0 be.linkedin.com
-0.0.0.0 blog.linkedin.com
+# 0.0.0.0 blog.linkedin.com #[enable linkedin.com blog]
 0.0.0.0 br.linkedin.com
 0.0.0.0 brand.linkedin.com
 0.0.0.0 bringinyourparents.linkedin.com
@@ -59745,7 +59745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 community-test.linkedin.com
 0.0.0.0 community.linkedin.com
 0.0.0.0 conscious.linkedin.com
-0.0.0.0 content.linkedin.com
+# 0.0.0.0 content.linkedin.com #[enable for linkedin.com blog]
 0.0.0.0 cy.linkedin.com
 0.0.0.0 cz.linkedin.com
 0.0.0.0 data.linkedin.com
