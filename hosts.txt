@@ -59926,19 +59926,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 fr.pinterest.com
 0.0.0.0 help.pinterest.com
 0.0.0.0 i-h1.pinimg.com
-0.0.0.0 i.pinimg.com
+# 0.0.0.0 i.pinimg.com
 0.0.0.0 i.pinimg.com.edgekey.net
 0.0.0.0 i.pinimg.com.gslb.pinterest.com
 0.0.0.0 id.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 pin.it
 0.0.0.0 pinimg.com
-0.0.0.0 pinterest.com
-0.0.0.0 post.pinterest.com
+# 0.0.0.0 pinterest.com
+# 0.0.0.0 post.pinterest.com
 0.0.0.0 prod.pinterest.global.map.fastly.net
 0.0.0.0 s-passets.pinimg.com
 0.0.0.0 s-pinimg-com.gslb.pinterest.com
-0.0.0.0 s.pinimg.com
+# 0.0.0.0 s.pinimg.com
 0.0.0.0 s.pinimg.com.edgekey.net
 0.0.0.0 s.pinimg.com.gslb.pinterest.com
 0.0.0.0 trk.pinterest.com
@@ -59948,7 +59948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.pinimg.com.gslb.pinterest.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 www.pinterest.ch
-0.0.0.0 www.pinterest.com
+# 0.0.0.0 www.pinterest.com
 0.0.0.0 www.pinterest.com.au
 0.0.0.0 www.pinterest.com.edgekey.net
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
