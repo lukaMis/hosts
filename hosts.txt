@@ -29,7 +29,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-
+0.0.0.0 www.facebook.com
+0.0.0.0 sl-si.facebook.com
 
 # End of custom host records.
 # Start StevenBlack
