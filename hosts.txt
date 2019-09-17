@@ -47547,8 +47547,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lutrija.rs
 0.0.0.0 www.tipos.sk
 0.0.0.0 www.etipos.sk
-0.0.0.0 www.loterija.si
-0.0.0.0 www.eloterija.si
+# 0.0.0.0 www.loterija.si
+# 0.0.0.0 www.eloterija.si
 0.0.0.0 www.e-stave.com
 0.0.0.0 www.loteriasyapuestas.es
 0.0.0.0 www.juegos.loteriasyapuestas.es
